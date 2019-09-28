@@ -1,0 +1,6 @@
+C:\Users\anant\source\repos\Controller\bin\Release\Controller.dll
+C:\Users\anant\source\repos\Controller\bin\Release\Controller.pdb
+C:\Users\anant\source\repos\Controller\obj\Release\Controller.csprojAssemblyReference.cache
+C:\Users\anant\source\repos\Controller\obj\Release\Controller.csproj.CoreCompileInputs.cache
+C:\Users\anant\source\repos\Controller\obj\Release\Controller.dll
+C:\Users\anant\source\repos\Controller\obj\Release\Controller.pdb

@@ -1,0 +1,10 @@
+C:\Users\anant\source\repos\ConsoleShoppingStore\bin\Debug\ConsoleShoppingStore.exe.config
+C:\Users\anant\source\repos\ConsoleShoppingStore\bin\Debug\ConsoleShoppingStore.exe
+C:\Users\anant\source\repos\ConsoleShoppingStore\bin\Debug\ConsoleShoppingStore.pdb
+C:\Users\anant\source\repos\ConsoleShoppingStore\obj\Debug\ConsoleShoppingStore.csprojAssemblyReference.cache
+C:\Users\anant\source\repos\ConsoleShoppingStore\obj\Debug\ConsoleShoppingStore.csproj.CoreCompileInputs.cache
+C:\Users\anant\source\repos\ConsoleShoppingStore\obj\Debug\ConsoleShoppingStore.exe
+C:\Users\anant\source\repos\ConsoleShoppingStore\obj\Debug\ConsoleShoppingStore.pdb
+C:\Users\anant\source\repos\ConsoleShoppingStore\bin\Debug\Controller.dll
+C:\Users\anant\source\repos\ConsoleShoppingStore\bin\Debug\Controller.pdb
+C:\Users\anant\source\repos\ConsoleShoppingStore\obj\Debug\ConsoleShoppingStore.csproj.CopyComplete
