@@ -1,5 +1,3 @@
 # Grocery-Shopping-store
-This is grocery shopping store to buy product ,which is built as a console app in c#,This doesn't include File handling.
-This is a small project done by me.
-This include inheritance ,partial class,static class,and other important concept of c#.
+This is grocery shopping store to buy product ,which is built as a console app in c#. All the list of products are statics and No database is connected . It was my practise app at the first stage of learning .net and c#
 
